@@ -100,6 +100,7 @@ The following environment variables can be configured:
 
 ## Screenshots
 <h4>Home<h4>
+   
 ![image](https://github.com/user-attachments/assets/712b5647-1ea9-4f4a-8a0e-ef92372f4f6d)
 
 ---
