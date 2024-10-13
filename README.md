@@ -98,6 +98,13 @@ The following environment variables can be configured:
 2. Retrieve the token by calling the `/token` endpoint with the default username and password (`test/testPass`).
 3. Use the token to make authenticated requests to the API routes.
 
+## Screenshots
+<h4>Home<h4>
+![image](https://github.com/user-attachments/assets/712b5647-1ea9-4f4a-8a0e-ef92372f4f6d)
+
+---
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
