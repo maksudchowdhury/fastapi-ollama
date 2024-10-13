@@ -98,13 +98,35 @@ The following environment variables can be configured:
 2. Retrieve the token by calling the `/token` endpoint with the default username and password (`test/testPass`).
 3. Use the token to make authenticated requests to the API routes.
 
-## Screenshots
-<h4>Home<h4>
+## Screenshots (Accessed through localhost:8000/docs URL)
    
 ![image](https://github.com/user-attachments/assets/712b5647-1ea9-4f4a-8a0e-ef92372f4f6d)
 
 ---
 
+![image](https://github.com/user-attachments/assets/be91b068-d2b9-4434-be9e-8a8fe05a7041)
+
+---
+
+![image](https://github.com/user-attachments/assets/692e4528-ed98-48f6-9ed9-e92b128291e7)
+
+---
+
+![image](https://github.com/user-attachments/assets/a35c1037-8c14-4881-89b9-d8f28919e61b)
+
+---
+
+![image](https://github.com/user-attachments/assets/a575916c-1070-4633-8c30-c031ea1ea6f9)
+
+---
+
+![image](https://github.com/user-attachments/assets/f25c6641-0ba0-4d07-9ea0-5e2126089def)
+
+---
+
+![image](https://github.com/user-attachments/assets/fd6afb08-94e6-4e91-a499-03082364f33a)
+
+---
 
 ## License
 
